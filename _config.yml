@@ -1,5 +1,7 @@
-title: Minimal theme
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: 
+title: Chenwei Shi
+theme: jekyll-theme-minimal
+
+url: "https://Shechangesway.github.io"
+baseurl: ""
+
+repository: "Shechangesway/shechangesway.github.io"
