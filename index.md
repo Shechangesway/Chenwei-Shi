@@ -16,10 +16,10 @@ December 1st, 2016
 
 ## Teaching
 
-# 2016-2017
+### 2016-2017
 
 * *Logic, Knowledge and Science, teaching assistance* (taught by Sonja Smets), teaching assistance, ILLC, University of Amsterdam
 
-# 2015-2016
+### 2015-2016
 
 * *Topics in Dynamic Epistemic Logic* (taught by Alexandru Baltag), teaching assistance, ILLC, University of Amsterdam
