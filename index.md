@@ -7,12 +7,12 @@ I am now a PhD candidate at the [ILLC](http://www.illc.uva.nl/), [University of 
 ## Publication
 
 *   **_Argument-based Belief in Topological Structures_**, Chenwei Shi, Sonja Smets and Fernando R. Velázquez-Quesada, accepted for TARK 2017.
-*   **_Nonmonotonic Reasoning and Belief Revision_**, Chenwei Shi and Olivier Roy, accepted for LORI-6.
+*   **_Reason to believe_**, Chenwei Shi and Olivier Roy, accepted for LORI-6.
 
 ## Talks
 
 * "Modeling the strength of arguments in dynamic epistemic probabilistic logic", [Workshop "Argument Strength"](http://homepages.ruhr-uni-bochum.de/defeasible-reasoning/Argument-Strength-2016.html), Bochum,  
-December 1st, 2016
+December 1st, 2016 ([Slides](https://1drv.ms/b/s!AjGu4GHCs1Jcp81npTyxaAIibgV8jA))
 
 ## Teaching
 
