@@ -4,6 +4,8 @@ layout: default
 
 I am now a PhD candidate at the [ILLC](http://www.illc.uva.nl/), [University of Amsterdam](http://www.uva.nl/en/home/) under the supervision of [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/), [Sonja Smets](http://sonja.tiddlyspot.com/#HOME) and [Fenrong Liu](http://www.fenrong.net/). Meanwhile, I am affiliated with the [Tsinghua University - University of Amsterdam Joint Research Centre for Logic](http://tsinghualogic.net/JRC/) in Beijing. My current research interest lies in formal epistemology, in particular the relation between human reasoning and belief.
 
+I love taking photos, capturing those serene and dynamic moments. You can find them in [this page](https://chenweishi.smugmug.com/). 
+
 ## Publication
 
 *   **_Argument-based Belief in Topological Structures_**, Chenwei Shi, Sonja Smets and Fernando R. Velázquez-Quesada, accepted for TARK 2017.
