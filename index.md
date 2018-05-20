@@ -8,7 +8,7 @@ I love taking photos, capturing those serene and dynamic moments. You can find t
 
 ## Publication
 
-*   [**_Reason to Believe_**](https://1drv.ms/b/s!AjGu4GHCs1Jcp98Gj925XsdiK-pypg), PhD thesis
+*   [**_Reason to Believe_**](https://1drv.ms/b/s!AjGu4GHCs1Jcp98Gj925XsdiK-pypg), PhD thesis (revised version 2018-04-06) , University of Amsterdam, ILLC Dissertation Series DS-2018-10.
 *   **_Beliefs Based on Evidence and Argumentation_**, Chenwei Shi, Sonja Smets and Fernando R. Velázquez-Quesada, accepted for WOLLIC 2018.
 *   [**_Beliefs supported by binary arguments_**](https://www.tandfonline.com/doi/abs/10.1080/11663081.2018.1457254), Chenwei Shi, Sonja Smets and Fernando R. Velázquez-Quesada, _Journal of Applied Non-Classical Logics_ (2018): pp.1-24, doi:10.1080/11663081.2018.1457254.
 *   [**_Argument-based Belief in Topological Structures_**](https://arxiv.org/abs/1707.08762), Chenwei Shi, Sonja Smets and Fernando R. Velázquez-Quesada, accepted for TARK 2017.
