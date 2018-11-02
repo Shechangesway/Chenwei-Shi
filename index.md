@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-News! I will defend my thesis *Reason to Believe* on June 13th at 13:00 in the Aula of UvA (Spui, 1012 RM Amsterdam). And one day before that, there is a [joint workshop](https://projects.illc.uva.nl/lgc/seminar/2018/04/workshop-new-directions-in-reasoning-about-belief-and-knowledge/) on the occasion of [Malvin](https://w4eg.de/malvin/)'s and my defences.
 
-I am now a PhD candidate at the [ILLC](http://www.illc.uva.nl/), [University of Amsterdam](http://www.uva.nl/en/home/) under the supervision of [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/), [Sonja Smets](http://sonja.tiddlyspot.com/#HOME) and [Fenrong Liu](http://www.fenrong.net/). Meanwhile, I am affiliated with the [Tsinghua University - University of Amsterdam Joint Research Centre for Logic](http://tsinghualogic.net/JRC/) in Beijing. My current research interest lies in formal epistemology, in particular the relation between human reasoning and belief.
+I am now a postdoc in the knowledge representation group [Kwarc](https://kwarc.info/) at [FAU Erlangen-Nürnberg](https://www.fau.eu/) working on the [ALMANAC](https://kwarc.info/projects/almanac/) project
+
+I get my PhD at the [ILLC](http://www.illc.uva.nl/), [University of Amsterdam](http://www.uva.nl/en/home/) under the supervision of [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/), [Sonja Smets](http://sonja.tiddlyspot.com/#HOME) and [Fenrong Liu](http://www.fenrong.net/).  My PhD dissertation explores the relationship between human reasoning and belief.
 
 I love taking photos, capturing those serene and dynamic moments. You can find them in [this page](https://chenweishi.smugmug.com/).
 
