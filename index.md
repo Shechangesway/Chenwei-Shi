@@ -2,11 +2,12 @@
 layout: default
 ---
 
-I am now a postdoc in the knowledge representation group [Kwarc](https://kwarc.info/) at [FAU Erlangen-Nürnberg](https://www.fau.eu/) working on the [ALMANAC](https://kwarc.info/projects/almanac/) project
+I am now a postdoc in Tsinghua University. 
+
+Email: scw at mail.tsinghua.edu.cn
 
 I get my PhD at the [ILLC](http://www.illc.uva.nl/), [University of Amsterdam](http://www.uva.nl/en/home/) under the supervision of [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/), [Sonja Smets](http://sonja.tiddlyspot.com/#HOME) and [Fenrong Liu](http://www.fenrong.net/).  My PhD dissertation explores the relationship between human reasoning and belief.
 
-I love taking photos, capturing those serene and dynamic moments. You can find them in [this page](https://chenweishi.smugmug.com/).
 
 ## Publication
 
