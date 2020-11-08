@@ -6,11 +6,13 @@ I am now a postdoc in Tsinghua University.
 
 Email: scw at mail.tsinghua.edu.cn
 
-I get my PhD at the [ILLC](http://www.illc.uva.nl/), [University of Amsterdam](http://www.uva.nl/en/home/) under the supervision of [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/), [Sonja Smets](http://sonja.tiddlyspot.com/#HOME) and [Fenrong Liu](http://www.fenrong.net/).  My PhD dissertation explores the relationship between human reasoning and belief.
+I get my PhD at the [ILLC](http://www.illc.uva.nl/), [University of Amsterdam](http://www.uva.nl/en/home/) under the supervision of [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/), [Sonja Smets](http://sonja.tiddlyspot.com/#HOME) and [Fenrong Liu](http://www.fenrong.net/).  My PhD dissertation explores the relationship between reasoning and belief.
 
 
 ## Publication
 
+*   [**_Collective Opinion as Tendency Towards Consensus_**](https://rdcu.be/b93qW), Chenwei Shi, _Journal of Philosophical Logic_ (2020), online first, doi:10.1007/s10992-020-09579-0.
+*   [**_No false grounds and topology of argumentation_**](https://doi.org/10.1093/logcom/exaa057), Chenwei Shi, _Journal of Logic and Computation_ (2020), online first, doi:10.1093/logcom/exaa057.
 *   [**_Reason to Believe_**](https://1drv.ms/b/s!AjGu4GHCs1Jcp98Gj925XsdiK-pypg), PhD thesis (revised version 2018-04-06) , University of Amsterdam, ILLC Dissertation Series DS-2018-10.
 *   **_Beliefs Based on Evidence and Argumentation_**, Chenwei Shi, Sonja Smets and Fernando R. Velázquez-Quesada, accepted for WOLLIC 2018.
 *   [**_Beliefs supported by binary arguments_**](https://www.tandfonline.com/doi/abs/10.1080/11663081.2018.1457254), Chenwei Shi, Sonja Smets and Fernando R. Velázquez-Quesada, _Journal of Applied Non-Classical Logics_ (2018): pp.1-24, doi:10.1080/11663081.2018.1457254.
